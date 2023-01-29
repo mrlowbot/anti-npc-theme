@@ -1,0 +1,35 @@
+{
+  "name": "anti-npc-theme",
+  "displayName": "Anti NPC Theme",
+  "description": "Anti NPC Theme",
+  "author": "mrlowbot",
+  "publisher": "AntiNPCTheme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrlowbot/anti-npc-theme"
+  },
+  "keywords": [
+    "theme",
+    "npc-theme",
+    "anti-npc-theme",
+    "green theme",
+    "themes",
+    "green"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anti NPC Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Anti NPC Theme-color-theme.json"
+      }
+    ]
+  }
+}
