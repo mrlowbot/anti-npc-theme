@@ -1,6 +1,9 @@
 
 # Anti NPC Theme
 
+## Warning!
+This theme has very bright green colors, use at your own risk!
+
 This is a simple vscode theme with very bright green colours. 
 It's called "Anti NPC Theme" because it's meant to wake you up to reality and is only usable if you're not an NPC.
 
