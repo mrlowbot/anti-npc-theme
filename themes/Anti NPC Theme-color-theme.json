@@ -8,6 +8,7 @@
     "titleBar.inactiveForeground": "#000000",
     "editor.background": "#15ff00",
     "editor.foreground": "#000000",
+    "editor.lineHighlightBorder": "#15ff00",
     "activityBar.background": "#000000",
     "sideBar.background": "#000000",
     "statusBar.background": "#10270e",
